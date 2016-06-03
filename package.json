@@ -1,0 +1,27 @@
+{
+  "name": "caniuse-css",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfolkeseth/caniuse-css.git"
+  },
+  "keywords": [
+    "caniuse",
+    "CSS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfolkeseth/caniuse-css/issues"
+  },
+  "homepage": "https://github.com/mfolkeseth/caniuse-css#readme",
+  "dependencies": {
+    "caniuse": "https://github.com/Fyrd/caniuse.git",
+    "fs": "0.0.2"
+  }
+}
